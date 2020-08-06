@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "This is program of sum of two numbers"
+echo "This is a program of sum of numbers"
 echo "Enter first number x is "
 read x
 echo "Enter second number y is "
